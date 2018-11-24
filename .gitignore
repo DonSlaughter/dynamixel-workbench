@@ -30,3 +30,6 @@
 
 # Users
 *.vscode
+
+# Build Files
+'*/build/*'
